@@ -26,6 +26,40 @@ De plus, les **glaçons** sont des **granités**, un clin d'œil supplémentaire
 4. **Game Over**  
    Lorsque la poule-bombe atteint le bas de l'écran et que le joueur n'a pas réagi à temps, le jeu se termine et le score final est affiché.
 
+# Voici les images de mon projet :
+
+## Accueil
+<img src="assets/img/accueil.png" width="500" />
+
+## Choix des langues
+<img src="assets/img/langchoice.png" width="500" />
+
+## Choix du niveau
+<img src="assets/img/levelchoice.png" width="500" />
+
+## Le jeu est lancé (les éléments sortent de la boîte de popcorn)
+<img src="assets/img/out.png" width="500" />
+<img src="assets/img/colorcorn.png" width="500" />
+
+## Popcorn (à la place des fruits coupés)
+<img src="assets/img/bluepop.png" width="500" />
+<img src="assets/img/pop.png" width="500" />
+
+## Bombe Poule
+<img src="assets/img/poule.png" width="500" />
+
+## Freeze granité 
+<img src="assets/img/freeze.png" width="500" />
+
+## Effet du freeze
+<img src="assets/img/icer.png" width="500" />
+
+## Combo
+<img src="assets/img/combo.png" width="500" />
+
+## Game over
+<img src="assets/img/perdu.png" width="500" />
+
 ## Code Technique
 
 ### Structure modulaire
