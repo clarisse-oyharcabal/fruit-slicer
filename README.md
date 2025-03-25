@@ -5,7 +5,7 @@ L'idée initiale était de créer un jeu inspiré de *Fruit Ninja*, mais avec un
 
 Dans *Corn Ninja*, les **maïs** n'ont pas à être tranchés, mais **explosent** pour se transformer en délicieux **popcorns**. La bombe dans le jeu est représentée par une **poule**, ce qui apporte une touche humoristique, car la poule picore du maïs et, si on ne désamorce pas la bombe, on perd ! 
 
-De plus, les **glaçons** sont des **granités**, un clin d'œil supplémentaire à l'atmosphère typique des cinémas.
+De plus, les **glaçons** sont représentés par des **granités**, un clin d'œil supplémentaire à l'atmosphère typique des cinémas.
 
 ## Ambiance sonore
 - **Musique d'accueil** : Bruit d'un accueil de cinéma avec des sons de distributeurs de boissons et de foule.
